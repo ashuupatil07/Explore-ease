@@ -2,8 +2,8 @@
 "The project aims to provide customers with the ideal accommodation options for their visits to specific cities, areas, or towns".
 
 ![ Screenshot_0 ](Screenshot/Home.png)
-![ Screenshot_1 ](Screenshot/#Home.png)
-![ Screenshot_2 ](Screenshot/##Home.png)
+![ Screenshot_1 ](Screenshot/Home2.png)
+![ Screenshot_2 ](Screenshot/Home3.png)
 ![ Screenshot_3 ](Screenshot/user.png)
 ![ Screenshot_4 ](Screenshot/owner.png)
 ![ Screenshot_5 ](Screenshot/Host.png)
